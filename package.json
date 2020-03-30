@@ -1,0 +1,22 @@
+{
+  "name": "cors",
+  "version": "1.0.0",
+  "description": "cors-js",
+  "main": "cors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h4ckm3-id/cors-js.git"
+  },
+  "author": "h4ck3-id",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h4ckm3-id/cors-js/issues"
+  },
+  "homepage": "https://github.com/h4ckm3-id/cors-js#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.1"
+  }
+}
